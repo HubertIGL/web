@@ -78,7 +78,7 @@ Supra dVRF V2 requires subscription to the service with a customer controlled wa
 
 Therefore you must register your wallet with the Supra team if you plan to consume Supra dVRF V2 within your smart contracts.
 
-Please refer to the [Supra documentation](https://supraoracles.com/docs/vrf/vrf-subscription-model-v2) for the latest steps on how to register your wallet for their service.
+Please refer to the [Supra documentation](https://docs.supra.com/oracles/dvrf/vrf-subscription-model) for the latest steps on how to register your wallet for their service.
 
 :::
 
@@ -408,4 +408,4 @@ Congratulations! You have successfully deployed and interacted with a smart cont
 To learn more about VRF and using Supra dVRF to generate random numbers within your smart contracts on Base, check out the following resources:
 
 - [Oracles](https://docs.base.org/tools/oracles)
-- [Supra dVRF - Developer Guide V2](https://supraoracles.com/docs/vrf/v2-guide)
+- [Supra dVRF - Developer Guide V2](https://.com/docs/vrf/v2-guide)
